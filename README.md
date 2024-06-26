@@ -1,5 +1,8 @@
 <h2 align="center">Hi there! I'm Afnan, a passionate CS student @ SQU 🎀👩🏻‍💻</h2>
-<p><img align="right" src="pic.jpg" alt="userafnan" /></p>
+<h2 align="center">✨Welcome to my GitHub profile ✨</h2>
+<p><img align="right" src="pic.jpg" alt="userafnan" /> </p>
+<p><img align="right" src="pic3.jpg" alt="userafnan" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/afnan-a-324ba9227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afnan-a-324ba9227" height="30" width="40" /></a>
