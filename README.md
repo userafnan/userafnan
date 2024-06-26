@@ -1,4 +1,4 @@
-![alt text](pic.jpeg)
+![alt text](pic.JPG)
 
 
 <!--
