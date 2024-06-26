@@ -13,4 +13,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=userafnan&show_icons=true&locale=en&layout=compact" alt="userafnan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=userafnan&show_icons=true&locale=en" alt="userafnan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=userafnan&show_icons=true&locale=en&rank_icon=github" alt="userafnan" /></p>
+
+
