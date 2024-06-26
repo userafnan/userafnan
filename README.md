@@ -1,4 +1,4 @@
-<h3 align="center">A passionate CS student 👩🏻‍💻💫</h3>
+<h2 align="center">Hi there! I'm Afnan, a passionate CS student @ SQU 👩🏻‍💻✨</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
