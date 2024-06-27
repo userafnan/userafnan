@@ -1,7 +1,7 @@
 <h2 align="center">Hi there! I'm Afnan, a passionate CS student @ SQU 🎀👩🏻‍💻</h2>
 <h2 align="center">✨Welcome to my GitHub profile ✨</h2>
-<p><img align="right" src="pic.jpg" alt="userafnan" /> </p>
-<p><img align="right" src="pic3.jpg" alt="userafnan" /></p>
+<p><img align="right" src="pic4.jpg" alt="userafnan" /> </p>
+<p><img align="right" src="pic.gif" alt="userafnan" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
